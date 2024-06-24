@@ -33,9 +33,9 @@ Description: A brief description of the project, what technologies you used, and
 
 ## GitHub Stats
 
-![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanth-vrk&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanth-vrk&layout=compact&theme=radical)
 
 ## What I Believe In
 
