@@ -26,7 +26,7 @@ Description: A brief description of the project, what technologies you used, and
 ## Contact Me
 
 - **Email:** [vprashanth516@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/prashanth-varikuppala-4a3550271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub:** [Your GitHub Profile](https://github.com/prashanth-vrk)
 
 ## GitHub Stats
