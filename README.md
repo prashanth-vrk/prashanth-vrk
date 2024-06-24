@@ -14,11 +14,11 @@ I am a Computer Science undergraduate with a strong command of core computer sci
 
 ## Projects
 
-### Project 1: [Project Name](link-to-project)
-Description: A brief description of the project, what technologies you used, and what you achieved.
+### Project 1: [RGUKT-lab due tracker](https://rgukt-lab-dues-tracker.netlify.app/)
+Description: Its is website designed for collage lab due tracking, Faculty input students dues, admin manage clearances Streamlining Btech lab fee monitering for certificate issuance, The technologies i used are HTML,CSS,JS,NODEJS, and with this project i learned how smart the things that i have to do.
 
-### Project 2: [Project Name](link-to-project)
-Description: A brief description of the project, what technologies you used, and what you achieved.
+### Project 2: [MYNTRA clone]
+Description: The project is the myntra clone having basic functionalities, the technologies i used are HTML,CSS,JAVASCRIPT, and by this project i learned good way to use HTML,CSS and JAVASCRIPT.
 
 ## Education
 
