@@ -8,7 +8,7 @@ I am a Computer Science undergraduate with a strong command of core computer sci
 
 - **Programming Languages:** C, C++, Python
 - **Web Technologies:** HTML, CSS, JavaScript
-- **Core Competencies:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving
+- **Core Competencies:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving, DBMS, Operating Systems
 - **Frameworks and Libraries:** ReactNative (learning)
 - **Development Practices:** Documentation, Design, Code Review, API Development
 
