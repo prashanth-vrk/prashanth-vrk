@@ -20,14 +20,14 @@ Description: A brief description of the project, what technologies you used, and
 
 ## Education
 
-- **Bachelor of Technology in Computer Science**, [Your University Name]
-  - Expected Graduation: [Year]
+- **Bachelor of Technology in Computer Science**, [RGUKT, basar]
+  - Expected Graduation: [2025]
 
 ## Contact Me
 
 - **Email:** [vprashanth516@gmail.com]
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-github-profile)
+- **GitHub:** [Your GitHub Profile](https://github.com/prashanth-vrk)
 
 ## GitHub Stats
 
