@@ -2,12 +2,13 @@
 
 ## About Me
 
-I am a Computer Science undergraduate with a strong command of core computer science subjects. I have a passion for programming and a solid understanding of data structures and algorithms. I am skilled in several programming languages and web technologies, and I am always looking for opportunities to collaborate with a good team to showcase my skills.
+I am a Computer Science undergraduate with a strong command of core computer science subjects. I have a passion for programming and a solid understanding of data structures and algorithms. I am skilled in several programming languages and web technologies, and I am always looking for opportunities to collaborate with a good team to showcase my skills. Iam also capable of taking on individual tasks and responsibilities.
 
 ## Skills
 
 - **Programming Languages:** C, C++, Python
 - **Web Technologies:** HTML, CSS, JavaScript
+- **Version Control:** Git, GitHub
 - **Core Competencies:** Data Structures and Algorithms, Object-Oriented Programming, Problem Solving, DBMS, Operating Systems
 - **Frameworks and Libraries:** ReactNative (learning)
 - **Development Practices:** Documentation, Design, Code Review, API Development
