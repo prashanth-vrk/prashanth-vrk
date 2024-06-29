@@ -4,6 +4,12 @@
 
 I am a Computer Science undergraduate with a strong command of core computer science subjects. I have a passion for programming and a solid understanding of data structures and algorithms. I am skilled in several programming languages and web technologies, and I am always looking for opportunities to collaborate with a good team to showcase my skills. Iam also capable of taking on individual tasks and responsibilities.
 
+## Certifications
+
+- Qualified **GATE-2024 COMPUTER SCIENCE** Organized by **IISC-BANGLORE.**
+- NPTEL certificate in **PROGRAMMING IN MODERN C++** with **68%** in 2022.
+- Qualified National Means cum Merit Scholarship Test (**NMMS**) in 2016.
+
 ## Skills
 
 - **Programming Languages:** C, C++, Python
